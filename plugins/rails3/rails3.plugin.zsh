@@ -7,4 +7,3 @@ alias rdbmr='rake db:migrate && rake db:migrate:redo'
 alias rc='ruby script/rails console'
 alias rd='ruby script/rails server --debugger'
 alias devlog='tail -f log/development.log'
-
